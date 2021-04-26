@@ -1,9 +1,10 @@
 .text {
   color: lightblue;
-  font-size: 210%
+  font-size: 275%;
+  font-family: georgia;
 }
 
 #text-id {
   font-family: serif;
-  color: lightblue;
-}
+  color: lightgreen;
+  }
