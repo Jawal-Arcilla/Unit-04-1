@@ -1,9 +1,9 @@
 .text {
-  color:rgb(131, 209, 209);
-  font-size:120%
+  color: lightblue;
+  font-size: 210%
 }
 
 #text-id {
-  font-family:serif;
-  color:rgb(131, 209, 209)
+  font-family: serif;
+  color: lightblue;
 }
